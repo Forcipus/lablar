@@ -1,0 +1,2 @@
+
+    //Calculate length of arra
